@@ -2,3 +2,6 @@
 fake_transactional_data_24.csv
 mapped_df.csv
 simulated_transaction_2024.csv
+extracted_rows.csv
+df.csv
+simulated_transactions_2024_wo_accountNo.csv
